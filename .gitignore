@@ -1,3 +1,6 @@
+hadoop-examples.jar
+minute_weather.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
